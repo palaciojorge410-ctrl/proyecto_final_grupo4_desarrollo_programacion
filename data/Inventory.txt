@@ -1,0 +1,6 @@
+1,Figura Iron Man,25.99,10
+2,Camiseta Batman,15.50,20
+3,pantalon corto,18.00,15
+4,sueter imagen Ball,8.99,30
+5,bota de animalito,5.50,50
+6,Taza Star Wars,12.00,25
